@@ -1,2 +1,3 @@
 # FrequencyMeasuringSystem
 基于DSP芯片的F28335的频率测量系统设计
+CCScode.zip 包含DSP2833x_common DSP2833x_headers TFTLibrary三个库函数 FreqMeasureSystem程序文件夹
